@@ -14,7 +14,7 @@ insert into books(title, publisher) values("Cryptonomicon",2);
 insert into books(title, publisher) values("Deep Work",3);
 insert into books(title, publisher) values("Atomic Habits",4);
 insert into books(title, publisher) values("The City and The City",5);
-insert into books(title, publisher) values("The Great War of Civilization",6);
+insert into books(title, publisher) values("The Great War of Civilisation",6);
 
 
 

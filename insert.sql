@@ -20,10 +20,10 @@ insert into books(title, publisher) values("The Great War for Civilisation",6);
 
 
 insert into subjects(name) values("C");
-insert into subjects(name) values("Unix");
+insert into subjects(name) values("UNIX");
 insert into subjects(name) values("Technology");
 insert into subjects(name) values("Go");
-insert into subjects(name) values("Science fiction");
+insert into subjects(name) values("Science Fiction");
 insert into subjects(name) values("Productivity");
 insert into subjects(name) values("Psychology");
 insert into subjects(name) values("Politics");
